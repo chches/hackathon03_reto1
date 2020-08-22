@@ -1,3 +1,6 @@
+# Excluyendo entorno virtual
+reto1_venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
